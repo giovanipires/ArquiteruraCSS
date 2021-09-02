@@ -1,10 +1,9 @@
 # arquitetura-css
 Curso de arquitetura CSS da Alura. 
 
-<h3>Aula 01</h3>
+<h3>Aula</h3>
 <ul>
-    <li>a utilizar seletores CSS mais simples;</li>
-    <li>a organizar a estruturar os arquivos css do projeto;</li>
     <li>Metodologia Atomic Design.</li>
+    <li>Metodologia BEM.</li>
 </ul>
 <br>
